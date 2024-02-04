@@ -1,16 +1,31 @@
-### Hi there 👋
+## 👩‍💻 Welcome to my Coding Universe! 👩‍💻
 
-<!--
-**georgiasantos-frontend/georgiasantos-frontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello World! I'm Geórgia Santos, a passionate Front-end Developer on a mission to turn caffeine into code.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Crafting delightful user experiences with HTML and CSS.
+- 🌐 Currently learning JavaScript e React.
+- 🎨 Enthusiast for clean, efficient, and responsive designs.
+  <br>
+
+### 🛠️ Tech Stack
+- Tools: VS Code, Git, Github, Figma and Bootstrap.
+- Linguagens: HTML5, CSS3, JavaScript
+  
+
+### 📫 Connect with me:  
+<a href="https://www.linkedin.com/feed/">
+Linkedin </a> <br>
+<a href="https://www.instagram.com/gesaints/">Instagram<a/> <br>
+
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgiasantos-frontend)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+  

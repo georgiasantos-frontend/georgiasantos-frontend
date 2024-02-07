@@ -1,21 +1,21 @@
-## 👩‍💻 Welcome to my Coding Universe! 👩‍💻
+## 👩‍💻 Bem-vindo ao meu mundo Dev! 👩‍💻
 
 
-Hello World! I'm Geórgia Santos, a passionate Front-end Developer on a mission to turn caffeine into code.
+Olá! Eu sou a Geórgia Santos, uma desenvolvedora front-end apaixonada por tecnologia.
 <br>
 
-### 🚀 About Me
-- 🔭 Crafting delightful user experiences with HTML and CSS.
-- 🌐 Currently learning JavaScript e React.
-- 🎨 Enthusiast for clean, efficient, and responsive designs.
+### 🚀 Sobre Me
+- 🔭 Criando experiência com HTML e CSS.
+- 🌐 Atualmente aprendendo JavaScript e React.
+- 🎨 Entusiasta com design limpo, eficiente e responsivo.
   <br>
 
-### 🛠️ Tech Stack
-- Tools: VS Code, Git, Github, Figma and Bootstrap.
+### 🛠️ Pilha Técnica
+- Ferramentas: VS Code, Git, Github, Figma and Bootstrap.
 - Linguagens: HTML5, CSS3, JavaScript
   
 
-### 📫 Connect with me:  
+### 📫 Conecte-se comigo:  
 <a href="https://www.linkedin.com/feed/">
 Linkedin </a> <br>
 <a href="https://www.instagram.com/gesaints/">Instagram<a/> <br>
